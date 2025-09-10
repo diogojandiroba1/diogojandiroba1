@@ -24,7 +24,7 @@
 
 <p align="center">
   <img src="c" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogojandiroba1&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=diogojandiroba1&show_icons=true&theme=tokyonight" height="160"/>
 </p>
 
 ---
@@ -34,7 +34,7 @@
   <a href="https://github.com/diogojandiroba1" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="www.linkedin.com/in/diogojandiroba" target="_blank">
+  <a href="https://www.linkedin.com/in/diogojandiroba" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
