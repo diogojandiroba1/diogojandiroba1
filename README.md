@@ -23,7 +23,6 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="c" height="160"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=diogojandiroba1&show_icons=true&theme=tokyonight" height="160"/>
 </p>
 
