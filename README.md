@@ -7,7 +7,7 @@
 ---
 
 ## 📖 Sobre mim
-<br>🎓 Cursando **Engenharia de computação** *(início em 2024, atualmente no 4º período)*
+<br>🎓 Cursando **Engenharia de computação** *(início em 2024, atualmente no 5º período)*
 
 ---
 
