@@ -26,6 +26,10 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=diogojandiroba1&show_icons=true&theme=tokyonight" height="160"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/diogojandiroba1/diogojandiroba1/main/metrics-isometric.svg">
+</p>
+
 ---
 
 ## 📫 Onde me encontrar
