@@ -1,19 +1,21 @@
-name: Isometric Commit Calendar
+name: GitHub Metrics
 
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  generate:
+  metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate isometric calendar
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
-          filename: metrics-isometric.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          filename: metrics-isocalendar.svg
           base: ""
-          plugin_isometric: yes
-          plugin_isometric_duration: full-year
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
