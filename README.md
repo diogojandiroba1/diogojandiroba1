@@ -24,10 +24,10 @@
 
 <p align="center">
   <a href="https://github.com/diogojandiroba1">
-    <img src="https://github-readme-stats.vercel.app/api?username=diogojandiroba1&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF" height="150" alt="Estatísticas do GitHub" />
+    <img src="https://github-stats-extended.vercel.app/api?username=diogojandiroba1&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF" height="150" alt="Estatísticas do GitHub" />
   </a>
   <a href="https://github.com/diogojandiroba1">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogojandiroba1&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF" height="150" alt="Linguagens mais utilizadas" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=diogojandiroba1&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF" height="150" alt="Linguagens mais utilizadas" />
   </a>
 </p>
 
