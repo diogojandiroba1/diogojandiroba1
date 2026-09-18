@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou Diogo Jandiroba</h1>
 
 <p align="center">
-  🎓 Graduando em Engenharia de Computação.
+  🎓 Graduando em Engenharia de Computação
 </p>
 
 ---
